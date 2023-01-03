@@ -1,2 +1,2 @@
-# guess-number
-Guess number game for boredom
+# guess the number -game
+

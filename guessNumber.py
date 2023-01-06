@@ -1,6 +1,6 @@
 import random
 answer = random.randint(1, 10)
-#print(answer)
+#print(f'Psst, rumor has it that {answer} is the answer')
 while True:
     try:
         guess = int(input('Guess a number between 1 and 10: '))
